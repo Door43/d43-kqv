@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kqv:home|Door43 (kqv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kqv|d43-kqv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kqv/archive/master.zip|d43-kqv.zip]]
+
+**Recent Changes**
+{{changes>ns = kqv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kqv|Ethnologue data]]
+
